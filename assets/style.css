@@ -35,3 +35,7 @@ footer {
       .navbar{
         background-color: black;
       }
+      
+      .jumbotron{
+        font-family: 'Asset', sans-serif;
+      }
