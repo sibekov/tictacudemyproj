@@ -1,6 +1,6 @@
 
 /*imported google fonts PASTE ON MY OWN CSS*/
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asset&display=swap');
 
 /*Asterisk wildcard selector to override default styles added by the browser*/
 * {
@@ -11,7 +11,7 @@
 
 /*Body*/
 body {
-    font-family: Lato, sans-serif;
+    font-family: 'Asset', sans-serif;
     font-weight: 300;
     color: rgba(59, 163, 182);
     background-color: red;}
