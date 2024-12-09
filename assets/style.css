@@ -1,0 +1,33 @@
+
+/*imported google fonts PASTE ON MY OWN CSS*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+
+/*Asterisk wildcard selector to override default styles added by the browser*/
+* {
+    margin: 0;
+    padding: 0;
+    border: none
+}
+
+/*Body*/
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: rgba(59, 163, 182);
+    background-color: red;}
+
+footer {
+    background-color: black;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    }
+    
+    footer li {
+        display: inline-block;
+        font-size: 20px;
+        padding: 20px;
+      }
