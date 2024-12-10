@@ -14,6 +14,7 @@ body {
     font-family: 'Asset', sans-serif;
     font-weight: 300;
     color: rgba(59, 163, 182);
+    background-image: url("..backgroundimage.png");
     background-color: red;}
 
    .fixed-bottom {
@@ -60,3 +61,5 @@ body {
     .display-4{
         margin-bottom: 30%;
     }
+
+ 
